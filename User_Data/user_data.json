@@ -1,1 +1,16 @@
-{"user_details": [{"username": "Person1", "password": "0000"}, {"username": "Person2", "password": "0101"}, {"username": "Person3", "password": "0240"}]}
+{
+    "user_details": [
+        {
+            "username": "Person1",
+            "password": "0000"
+        },
+        {
+            "username": "Person2",
+            "password": "0101"
+        },
+        {
+            "username": "Person3",
+            "password": "0240"
+        }
+    ]
+}
