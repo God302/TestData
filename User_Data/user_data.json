@@ -2,19 +2,18 @@
     "user_details": [
         {
             "username": "Person1",
-            "password": "0000"
+            "password": "0000",
+            "balance": "1"
         },
         {
             "username": "Person2",
-            "password": "0101"
+            "password": "0101",
+            "balance": "90"
         },
         {
             "username": "Person3",
-            "password": "0240"
-        },
-        {
-            "username": "Person4",
-            "password": "1423"
+            "password": "0240",
+            "balance": "40"
         }
     ]
 }
