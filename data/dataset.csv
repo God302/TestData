@@ -1,0 +1,4 @@
+ï»¿item_name,base_attack,base_defence,target_ground,target_air,hands_cost,base_speed
+Basic_Sword,10,1,TRUE,FALSE,1,1
+Basic_Bow,15,1,TRUE,TRUE,2,3
+Basic_Spear,12,4,TRUE,FALSE,2,2
