@@ -1,1 +1,2 @@
-7
+This is a test file
+It also has multiple line lol
