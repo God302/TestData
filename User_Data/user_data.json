@@ -14,6 +14,10 @@
             "username": "Person3",
             "password": "0240",
             "balance": "40"
+        },
+        {
+            "username": "CoolGuy20",
+            "password": "poo"
         }
     ]
 }
