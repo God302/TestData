@@ -3,12 +3,12 @@
         {
             "username": "Person1",
             "password": "0000",
-            "balance": 1
+            "balance": 41
         },
         {
             "username": "Person2",
             "password": "0101",
-            "balance": 90
+            "balance": 50
         },
         {
             "username": "Person3",
