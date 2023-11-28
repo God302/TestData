@@ -23,12 +23,12 @@
         {
             "username": "O",
             "password": "g",
-            "balance": 1001000
+            "balance": 0
         },
         {
             "username": "The Emporor",
             "password": "2607",
-            "balance": 0
+            "balance": 1001000
         }
     ]
 }
