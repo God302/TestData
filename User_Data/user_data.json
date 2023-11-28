@@ -24,6 +24,11 @@
             "username": "O",
             "password": "g",
             "balance": 1000000
+        },
+        {
+            "username": "The Emporor",
+            "password": "2607",
+            "balance": 0
         }
     ]
 }
